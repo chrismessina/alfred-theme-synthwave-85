@@ -43,4 +43,4 @@ The inspiration for this theme came from James White's [Synthwave playlist cover
 
 This theme is unaffiliated with nor endorsed by James White.
 
-<a href="https://www.alfredforum.com/topic/16380-synthwave-85-inspired-theme/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16381-synthwave-85-theme/">Alfred Forum link</a>.
