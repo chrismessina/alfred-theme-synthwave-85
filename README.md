@@ -2,7 +2,7 @@
 
 Here are two [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) inspired by [vaporwave](https://www.spotify.com/) and James White's [Signalnoise's incredible artwork](https://dribbble.com/Signalnoise), specifically his [Synthwave playlist cover art](https://dribbble.com/shots/7064951-Signalnoise-Synthwave-playlist).
 
-These are successors to my Synthwave '84 theme and require Alfred 4.3+.
+These are successors to my [Synthwave '84 theme](https://github.com/chrismessina/alfred-theme-synthwave-84) and requires [Alfred 4.3+](https://www.alfredapp.com/blog/releases/alfred-4-3-gorgeous-big-sur-theming/).
 
 [**Download Theme**](https://github.com/chrismessina/alfred-theme-synthwave-85/releases/latest)
 
